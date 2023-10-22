@@ -1,2 +1,3 @@
 for test
-Hello my dear friend
+Hello my dear friend!
+How are you?
